@@ -1,5 +1,5 @@
 _extras
 .*
 ext_core_php_builder.*
-makefile.py
+makefile.*
 nbproject
